@@ -1,9 +1,15 @@
 ## Hi, I’m Pratikshya 👋  
-Data Science undergrad | Python & SQL | Data analysis enthusiast  
+2nd year CSE (Data Science) undergrad | Python & SQL | Data analysis enthusiast  
+ 
+🔹 Skills: Python, Pandas, NumPy, SQL (basics), Data Analysis  
+🔹 Interests: Data analytics, real-world problem solving  
+🔹 Currently learning: Advanced SQL, ML fundamentals  
 
-🔭 I’m working on real-world data problems with Python (Pandas, NumPy, Matplotlib).  
-📊 I build insightful dashboards and have experience cleaning, visualizing, and interpreting datasets.  
-💡 Always learning advanced ML, SQL queries, and analytics techniques.
+📌 Projects:
+- Student Performance Analysis (Python, Pandas)
+- Canteen Sales Analysis (EDA)
 
-📫 Reach me: pandapratikshya301@gmail.com /https://www.linkedin.com/in/pratikshya-panda-28bb65328 
+📫 Contact:
+- LinkedIn: https://www.linkedin.com/in/pratikshya-panda-28bb65328
+- Email: pandapratikshya301@gmail.com
 📍 India
