@@ -1,6 +1,12 @@
-## Hi there 👋
+## Hi, I’m Pratikshya 👋  
+Data Science undergrad | Python & SQL | Data analysis enthusiast  
 
-<!--
+🔭 I’m working on real-world data problems with Python (Pandas, NumPy, Matplotlib).  
+📊 I build insightful dashboards and have experience cleaning, visualizing, and interpreting datasets.  
+💡 Always learning advanced ML, SQL queries, and analytics techniques.
+
+📫 Reach me: email / LinkedIn  
+📍 India<!--
 **pandapratikshya301-rgb/pandapratikshya301-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
