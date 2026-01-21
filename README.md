@@ -6,6 +6,7 @@
 🔹 Currently learning: Advanced SQL, ML fundamentals  
 
 📌 Projects:
+-E-commerce website (HTML, CSS, JavaScript,MongoDB)
 - Student Performance Analysis (Python, Pandas)
 - Canteen Sales Analysis (EDA)
 
