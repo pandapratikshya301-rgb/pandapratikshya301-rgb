@@ -8,7 +8,7 @@
 📌 Projects:
 -E-commerce website (HTML, CSS, JavaScript,MongoDB)
 - Student Performance Analysis (Python, Pandas)
-- Canteen Sales Analysis (EDA)
+- Canteen Sales Predictor (Power BI)
 
 📫 Contact:
 - LinkedIn: https://www.linkedin.com/in/pratikshya-panda-28bb65328
